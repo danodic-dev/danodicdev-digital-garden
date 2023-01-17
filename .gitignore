@@ -166,3 +166,6 @@ config_local.ini
 
 *.old
 farts.md
+
+.obsidian/
+*.insyncdl
