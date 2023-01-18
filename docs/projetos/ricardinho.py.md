@@ -17,9 +17,9 @@ Eu comecei a dar uma olhada em como isso funciona, e então o _Ricardinho.py_ na
 - Enviava mensagens aleatórias no chat, incomodando os usuários que estavam tentando conversar. Alguns usuários tinham mensagens _customizadas_ direcionadas a eles.  
 - Enviar DMs aleatórias para os usuários do canal com gifs aleatórios do Ricardo Milos dançando. Alguns usuários também tinham DMs customizadas.  
 - Existinham alguns comandos para pedir gifs, como `!ricardinho`.  
-  
-![Ricardinho Screenshots](https://storage.googleapis.com/danodicdev-public/public/other/images/ricardinho.png)  
-  
+
+![Ricardinho.py Screenshot](../assets/other/ricardinho.png)
+
 Algumas pessoas ficaram _realmente_ incomodadas com o bot e bloquearam ele. Algumas pessoas saíram do canal.  
   
 Mais tarde eu criei uma extensão deste script chamada _Andrézinho_ (outro meme, _deixa os garoto brincar_) para tocar música para nós:  

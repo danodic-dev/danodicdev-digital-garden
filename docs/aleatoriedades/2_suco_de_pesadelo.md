@@ -41,31 +41,26 @@ Então essa semana um amigo meu me mandou o link do [Dreamstudio]().
   
 A UI do Dreamstudio é razoávelmente simples, e permite gerar algumas combinações interessantes. Essa foi _a primeira coisa que eu gerei lá_:  
   
-> ![Abacaxi Matador](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/abacaxi_matador.jpg)  
->  
+> ![Abacaxi Matador](../assets/posts/aleatoriedades/3/abacaxi_matador.jpg)  
 > _An smiling pineapple killing a human with a knife._  
   
 Eu avisei que ia ser estranho...  
   
-> ![Cabeça de abacaxi](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/cabeca_de_abacaxi.jpg)  
->  
+> ![Cabeça de abacaxi](../assets/posts/aleatoriedades/3/cabeca_de_abacaxi.jpg)
 > _A pineapple head cutting its hair. Eu tenho um lance com abacaxis._  
   
 Entre muitas outras coisas, eu consegui gerar a _bola quadrada do kiko_, _uma foto da minha geladeira_ e até um retrato da minha frustração e semvergonhice:  
   
-> ![Bola Quadrada](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/bola_quadrada.jpg)  
->  
+> ![Bola Quadrada](../assets/posts/aleatoriedades/3/bola_quadrada.jpg)
 > _An square ball._  
   
-> ![A janta hoje é superbonder](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/a_janta_vai_ser_superbonder.jpg)  
->  
+> ![A janta hoje é superbonder](../assets/posts/aleatoriedades/3/a_janta_vai_ser_superbonder.jpg)
 > _A fridge with human heads inside._  
   
-> ![Não é o Cthulhu](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/naoeochuthulu.jpg)  
->  
+> ![Não é o Cthulhu](../assets/posts/aleatoriedades/3/naoeochuthulu.jpg)
 > _Cthulhu in the woods at night, behance style.  
   
-> ![Sou marrom por dentro](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/soumarrompordentro.jpg)  
+> ![Sou marrom por dentro](../assets/posts/aleatoriedades/3/soumarrompordentro.jpg)  
 >  
 > _The frustration inside me._  
   
@@ -73,17 +68,17 @@ Entre muitas outras coisas, eu consegui gerar a _bola quadrada do kiko_, _uma fo
   
 Existem aquelas coisas _bem de sonho mesmo_, como quando nós sonhamos que existia um _playstation da microsoft_:  
   
-> ![Microsoft Playstation Pro](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/microsoft_playstation_pro.jpg)  
+> ![Microsoft Playstation Pro](../assets/posts/aleatoriedades/3/microsoft_playstation_pro.jpg)  
 >  
 > _The microsoft playstation._  
   
-> ![Playstation Series X](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/playstation_series_x.jpg)  
+> ![Playstation Series X](../assets/posts/aleatoriedades/3/playstation_series_x.jpg)  
 >  
 > _The sony xbox series x._  
   
 Essa não fui eu que gerei, mas está aqui com a devida permissão:  
   
-> ![Direto do aliexpress](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/microtendo_wiinect.jpg)  
+> ![Direto do aliexpress](../assets/posts/aleatoriedades/3/microtendo_wiinect.jpg)  
 >  
 > _The microsoft nintendo game console and controller._  
   
@@ -91,48 +86,48 @@ Essa não fui eu que gerei, mas está aqui com a devida permissão:
   
 O que acham a respeito da _coca-cola da pepsi_?  
   
-> ![Apenas uma agressão](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/apenas_uma_agressao.jpg)  
+> ![Apenas uma agressão](../assets/posts/aleatoriedades/3/apenas_uma_agressao.jpg)  
 >  
 > _The coca cola can with a pepsi logo_  
   
 Já registrei o domínio redcua.com, perdeu:  
   
-> ![Red Cua e Coé Cola](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/red_cua_e_coe_cola.jpg)  
+> ![Red Cua e Coé Cola](../assets/posts/aleatoriedades/3/red_cua_e_coe_cola.jpg)  
   
 Direto da união soviética:  
   
-> ![Pepsi Soviética](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/pepsi_sovietica.jpg)  
+> ![Pepsi Soviética](../assets/posts/aleatoriedades/3/pepsi_sovietica.jpg)  
   
 A latas de refigerante ficam muito legais:  
   
-> ![Pespiesa](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/pespiesa.jpg)  
+> ![Pespiesa](../assets/posts/aleatoriedades/3/pespiesa.jpg)  
 >  
-> ![Opeo Repo](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/opeo_repo.jpg)  
+> ![Opeo Repo](../assets/posts/aleatoriedades/3/opeo_repo.jpg)  
 >  
-> ![Rec Cola](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/Rec.jpg)  
+> ![Rec Cola](../assets/posts/aleatoriedades/3/Rec.jpg)  
   
 ## Fotos antigas são a materialização do mal  
   
 Está duvidando?  
   
 >  
-> ![Uma família feliz](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/familia_feliz.jpg)  
+> ![Uma família feliz](../assets/posts/aleatoriedades/3/familia_feliz.jpg)  
 >  
-> ![Meu velório em chernobyl](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/podeissoarnaldo.jpg)  
+> ![Meu velório em chernobyl](../assets/posts/aleatoriedades/3/podeissoarnaldo.jpg)  
 >  
-> ![Os caras legais do braço com 77 articulaçÕes](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/noite_louca_com_pessoas_descoladas.jpg)  
+> ![Os caras legais do braço com 77 articulaçÕes](../assets/posts/aleatoriedades/3/noite_louca_com_pessoas_descoladas.jpg)  
 >  
-> ![Foto da festa da firma](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/sorria.jpg)  
+> ![Foto da festa da firma](../assets/posts/aleatoriedades/3/sorria.jpg)  
 >  
-> ![ET de terno](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/abducao_com_classe.jpg)  
+> ![ET de terno](../assets/posts/aleatoriedades/3/abducao_com_classe.jpg)  
 >  
-> ![Três pessoas e um canadense](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/familia_canadense.jpg)  
+> ![Três pessoas e um canadense](../assets/posts/aleatoriedades/3/familia_canadense.jpg)  
 >  
-> ![Quadro da sala de casa](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/pendura_na_parede_vai.jpg)  
+> ![Quadro da sala de casa](../assets/posts/aleatoriedades/3/pendura_na_parede_vai.jpg)  
 >  
-> ![É a cara do pai](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/vai_passar_quando_ela_crescer.jpg)  
+> ![É a cara do pai](../assets/posts/aleatoriedades/3/vai_passar_quando_ela_crescer.jpg)  
 >  
-> ![Purgatório](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/3/role_do_cleber.jpg)  
+> ![Purgatório](../assets/posts/aleatoriedades/3/role_do_cleber.jpg)  
   
 ## Estou com medo  
   

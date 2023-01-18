@@ -36,8 +36,7 @@ A questão de arquitetura foi um dos pontos onde eu mais sofri durante o desenvo
 
 Arquitetura é algo que a gente só pensa a respeito quando tudo já está errado, e esse foi o caso no Rushbeat. Foi quando eu vi o caos que estavam aquelas 50 classes que eu decidi estudar a respeito e cheguei [neste livro](https://gameprogrammingpatterns.com/). Eu já conhecia uma coisa ou outra sobre _design patterns_, mas só o básico: este livro pra mim mudou tudo.
 
-> ![Livro: Game Programming Design Patterns](https://storage.googleapis.com/danodicdev-public/public/posts/7/20220810_225810.png)
->
+>![Livro: Game Programming Design Patterns](../assets/posts/devlog/5/20220810_225810.png)
 > _O livro é tão bom que eu comprei ele em papel, mas você pode ler tudo no site._
 
 Neste livro eu aprendi _pra valer_ sobre algumas coisas:
@@ -49,8 +48,8 @@ Neste livro eu aprendi _pra valer_ sobre algumas coisas:
 
 Além disso, venho utilizando arquitetura hexagonal no trabalho e lendo o tal do _Clean Architeture_.
 
-> ![Livro: Clean Architecture](https://storage.googleapis.com/danodicdev-public/public/posts/7/20220810_230000.png)
->
+> ![Livro: Game Programming Design Patterns](../assets/posts/devlog/5/20220810_230000.png)
+> 
 > _Isso me parece mais aplicável a software corporativo, mas algumas coisas parecem se encaixar com jogos também._
 
 Tendo tudo isso em mente, defini algumas coisas como base para o novo jogo:
@@ -107,8 +106,8 @@ Com isso em mente, podemos entender qual o progresso que temos:
 > como também ja lista os joysticks disponíveis e permite ouvir eventos deles. Já está amarrado no sistema de logging._
 >
 > _As interfaces se parecem com isso:_
->
-> ![Interfaces de Input](https://storage.googleapis.com/danodicdev-public/public/posts/7/input.png)
+> 
+>![Interfaces de Input](../assets/posts/devlog/5/input.png)
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fHC2aTY2BoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >

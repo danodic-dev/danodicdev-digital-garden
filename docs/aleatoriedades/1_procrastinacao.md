@@ -44,22 +44,19 @@ Existem diversas gerações do desenho do pica-pau, quando eu era criança eu go
   
 Muito tempo depois saiu a série nova do Pica-Pau, _em que ele era apenas idiota_. Idiota demais, ao ponto de ser sem propósito.  
   
-> ![Sem propósito](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/2/picapau_idiota.png)  
->  
+>  ![Sem Propósito](../assets/posts/aleatoriedades/2/picapau_idiota.png)
 > _ISSO AQUI É UMA **PORCARIA** QUE NÃO .. MERDA NENHUMA. ME DESCULPE_  
   
 Esse desenho era _uma porcaria_, e veio numa época em que os desenhos animados estavam cada vez mais idiotas. Além disso, a arte e a animação eram ruins -- eu não me submetia a assistir esse lixo. Até porque eu já tinha uns vinte anos quando essa porcaria apareceu por aqui na tv aberta.  
   
-> ![Puta mundo injusto, meu!](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/2/naosoueu.png)  
->  
+>![Puta mundo injusto, meu!](../assets/posts/aleatoriedades/2/naosoueu.png)
 > _Eu mudava de canal mesmo, meu._  
   
 Mas, dá pra piorar?  
   
 ## O Pica-Pau Idiota _E_ Pós-Moderno  
   
-> ![furry.png](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/2/picapau_hipster_posmoderno.png)  
->  
+> ![furry.png](../assets/posts/aleatoriedades/2/picapau_hipster_posmoderno.png)
 > Dá.  
   
 ## O Pica-Pau biruta  
@@ -72,8 +69,8 @@ Quando eu era criança, não gostava dessa versão -- provavelmente porque eu er
   
 Apenas sepois de velho eu percebi que _essa é a melhor versão_, o pica-pau mais _maroto_ de todos.  
   
-> ![Racionamento de asas](https://storage.googleapis.com/danodicdev-public/public/aleatoriedades/2/picapau_merdeiro.png)  
->  
+
+> ![Racionamento de Asas](../assets/posts/aleatoriedades/2/picapau_merdeiro.png)
 > _Só faz bobagem e ainda vai pro céu_.  
   
 Esta é a encarnação do caos, a materialização do mal, a zueira pela zueira. Ele _rouba a polícia_. Ele fala _"gasosa"_. Ele peita as autoridades. _Ele usa gola rolê com polainas._  
