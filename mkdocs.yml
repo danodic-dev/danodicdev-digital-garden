@@ -4,8 +4,6 @@ site_url: https://danodic.dev
 plugins:
   - search:
       include_search_page: true
-  - tags:
-      tags_file: tags.md
   - mkdocs-backlinks:
       ignored_pages: [ 'Tags' ]
 
