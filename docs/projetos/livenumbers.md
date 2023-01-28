@@ -6,7 +6,7 @@ tags:
   - gamedev
 ---
 
-# Livenumbers ([Github](https://github.com/danodic-dev/live-numbers))  
+# O que é Livenumbers? ([Github](https://github.com/danodic-dev/live-numbers))  
 
 ![Livenumbers Logo](../assets/livenumbers-logo-light.svg)
 
@@ -43,7 +43,7 @@ while (true) {
   
 ## Tecnologia  
   
-A biblioteca foi desenvolvida em _Java_, já que é a linguagem utilizada no [Rushbeat](rushbeat.md). É uma biblioteca muito simples, então a única biblioteca utilizada é o _TestNG_ para alguns testes.  
+A biblioteca foi desenvolvida em _Java_, já que é a linguagem utilizada no [Rushbeat](./rushbeat.md). É uma biblioteca muito simples, então a única biblioteca utilizada é o _TestNG_ para alguns testes.  
   
 ## Timeline  
   

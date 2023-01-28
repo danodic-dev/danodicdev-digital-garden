@@ -1,0 +1,24 @@
+<div class="is-flex is-justify-content-space-between">
+    <a href="{{ config.site_url }}">
+        <div class="is-align-self-center is-flex">
+            {% if config.theme.logo %}
+            <h1 class="m-0 site-name">{{ config.site_name }}</h1>
+            {% else %}
+            <img src="{{ config.theme.logo }}" alt="site logo" width="128">
+            {% endif %}
+        </div>
+    </a>
+    <!--
+    <div class="is-align-self-center">
+        <div class="buttons">
+            <a class="button is-dark is-outlined is-small js-modal-trigger" data-target="modal-js-example">
+                <ion-icon name="search-sharp"></ion-icon>
+                <span class="is-hidden-touch">
+                    &nbsp;
+                    Pesquisar...
+                </span>
+            </a>
+        </div>
+    </div>
+    -->
+</div>

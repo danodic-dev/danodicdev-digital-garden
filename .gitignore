@@ -170,3 +170,4 @@ farts.md
 .obsidian/
 *.insyncdl
 site/
+/theme/.sass-cache/

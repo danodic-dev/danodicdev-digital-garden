@@ -1,0 +1,103 @@
+@charset "utf-8"
+
+$garden-background: #FFFFFF
+$garden-background-accent: #c8c8c8
+$garden-foreground: #000000
+$garden-foreground-accent: #141414
+
+
+$active-link-background: #FF0000
+$active-link-foreground: #FFFFFF
+$active-link-background-hover: $garden-background-accent
+$active-link-foreground-hover: $active-link-background
+
+$visited-link-background: $garden-background
+$visited-link-foreground: $garden-foreground-accent
+$visited-link-background-hover: $garden-background-accent
+$visited-link-foreground-hover: $garden-foreground-accent
+
+$radius-small: 4px
+
+$family-sans-serif: "DejaVu Sans Light", sans-serif
+$family-monospace: "DejaVu Sans Mono", monospace
+$desktop: 640px
+
+$dark: $garden-foreground
+
+$black: $garden-foreground-accent
+$black-bis: $garden-foreground-accent
+$black-ter: $garden-foreground-accent
+$grey-darker: $garden-foreground
+$grey-dark: $garden-foreground
+$grey: $garden-foreground
+$grey-light: $garden-background-accent
+$grey-lighter: $garden-background-accent
+$grey-lightest: $garden-background-accent
+$white-ter: $garden-background
+$white-bis: $garden-background
+$white: $garden-background
+$orange: $garden-foreground
+$yellow: $garden-foreground
+$green: $garden-foreground
+$turquoise: $garden-foreground
+$cyan: $garden-foreground
+$blue: $garden-foreground
+$purple: $garden-foreground
+
+$strong-color: $garden-foreground-accent
+
+$body-background-color: $garden-background
+$body-color: $garden-foreground-accent
+
+$hr-background-color: $garden-background-accent
+$hr-height: 1px
+
+@import "bulma/bulma.sass"
+
+a
+  font-family: "DejaVu Sans", monospace
+  background-color: $active-link-background
+  color: $active-link-foreground
+  border-radius: 0.3em
+  padding: 0 0.3em 0 0.3em
+
+a:hover
+  background-color: $active-link-background-hover
+  color: $active-link-foreground-hover
+
+a:visited
+  background-color: $visited-link-background
+  color: $visited-link-foreground
+  text-decoration: underline dotted red
+
+a:visited:hover
+  background-color: $visited-link-background-hover
+  color: $visited-link-foreground-hover
+  text-decoration: underline dotted red
+
+a.headerlink
+  background-color: $garden-background
+  color: $garden-background-accent
+
+a.headerlink:hover
+  background-color: $garden-background
+  color: $garden-foreground-accent
+
+pre
+  background-color: $garden-background-accent
+
+code
+  font-family: "DejaVu Sans Mono", monospace
+  background-color: $garden-background-accent
+  color: $garden-foreground-accent
+  border-radius: 0.3em
+  padding: 0 0.3em 0 0.3em
+
+blockquote
+  background-color: $garden-background-accent !important
+  border-color: $garden-foreground-accent !important
+  border-radius: 0.3em !important
+
+.site-name
+  font-family: "DejaVu Sans", monospace
+  font-weight: bold

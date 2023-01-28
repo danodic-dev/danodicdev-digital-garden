@@ -1,43 +1,20 @@
-site_name: ""
+site_name: "danodic.dev"
 site_url: https://danodic.dev
-#nav:
-#  - Home: index.md
-#  - Português: portugues/index.md
-#  - English: english/index.md
+
 plugins:
-  - search
+  - search:
+      include_search_page: true
   - tags:
       tags_file: tags.md
+  - mkdocs-backlinks:
+      ignored_pages: [ 'Tags' ]
 
 theme:
-  name: material
-  features:
-    - navigation.indexes
-    - navigation.footer
-  palette:
-    scheme: slate
-    primary: teal
-    accent: teal
-  font:
-    text: Ubuntu Condensed
-    code: Ubuntu Mono
-  logo: assets/danodicdev-logo-light.svg
+    name: null
+    custom_dir: 'theme/'
+    logo: '/assets/danodicdev-logo-dark.svg'
 
-extra:
-  alternate:
-    - name: Português
-      link: /portugues/
-      lang: pt-BR
-    - name: English
-      link: /english/
-      lang: en
-  social:
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/@danodicdev
-    - icon: fontawesome/brands/github
-      link: https://github.com/danodic-dev
-
-repo_url: https://github.com/danodic-dev
+repo_url: https://github.com/danodic-dev/danodicdev-digital-garden
 repo_name: danodic.dev
 
 site_description: Danilo Guimarães' digital garden.

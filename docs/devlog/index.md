@@ -4,8 +4,6 @@ tags:
   - portugues
 ---
 
-# Devlog
-
 No devlog eu coloco os updates dos meus projetos e outras coisas relacionadas a desenvolvimento de software ou a este site. Outras coisas não relacionadas a isso são postadas em [Aleatoriedades](../../aleatoriedades/index.md).
 
 ## Posts

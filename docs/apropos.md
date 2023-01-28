@@ -3,6 +3,7 @@ title: Apropos
 ---
 
 Se você esta aqui é porque:
+
 - Não entendeu o que este site é.
 - Achou este site interessante (eu sei, não vou me enganar).
 - Não sabe o que significa _apropos_.
@@ -14,7 +15,7 @@ De acordo com a [wikipedia](https://en.wikipedia.org/wiki/Apropos_(Unix)):
 
 Este site segue o conceito de _Digital Garden_, que é uma forma de expor ideias na internet sem necessáriamente criar uma _home page_ tradicional. É basicamente uma coleção de notas que eu escrevo no meu Obsidian -- algumas dessas notas são escritas de forma proposital para serem compartilhadas (como o devlog), outras são apenas notas que eu guardo para mim.
 
-Para saber mais sobre digital gardens, você pode clicar [aqui](notas/digital_gardens.md) Se você tiver interesse sobre o aspecto tecnico deste site, pode ler a respeito [aqui](projetos/danodicdev.md). 
+Para saber mais sobre digital gardens, você pode clicar [aqui](notas/coisas/digital_gardens.md) Se você tiver interesse sobre o aspecto tecnico deste site, pode ler a respeito [aqui](/projetos/danodicdev). 
 
 ## Contato
 

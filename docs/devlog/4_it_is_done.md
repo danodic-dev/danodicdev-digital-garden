@@ -82,7 +82,7 @@ No final das contas está tudo _deployado_ no GCP, e eu usei os seguintes servi�
 - Cloud Storage para o conteúdo estático.
 - Cloud build para deploy contínuo do backend, frontend e conteúdo estático.
 - Source Repositories como repositório git.
-- Postgres rodando em Cloud SQL para o banco de dados do [Minumtium](/projects/minumtium).
+- Postgres rodando em Cloud SQL para o banco de dados do [Minumtium](/projetos/minumtium).
 - Container Registry, porque _a própria ferramenta do google_ ainda não usa o Artifact Registry.
 - Secret Manager para tratar credenciais.
 

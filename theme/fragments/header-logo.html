@@ -1,0 +1,7 @@
+<a class="navbar-item" href="{{ config.site_url }}">
+    {% if config.theme.logo %}
+    <img class="is-one-fifth" src="{{ config.theme.logo }}" alt="site logo" width="156">
+    {% else %}
+    <h1>{{ config.site_name }}</h1>
+    {% endif %}
+</a>

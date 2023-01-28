@@ -1,0 +1,11 @@
+{% if backlinks %}
+<div class="note-backlinks">
+    <h4>Backlinks</h4>
+    <ul>
+        {% for backlink in backlinks %}
+        <li><a href="/{{ backlink.url }}">{{ backlink.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+<hr>
+{% endif %}

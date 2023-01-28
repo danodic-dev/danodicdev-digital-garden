@@ -13,7 +13,7 @@ tags:
 ![Jao Logo](../assets/jao-logo-light.svg)
 {: style="height:200px;width:200px"} 
   
-O JAO Editor é uma ferramenta de suporte criada durante o desenvolvimento do [Rushbeat](/en/projects/rushbeat) para acelerar o desenvolvimento de layouts de tela e arquivos JAO.  
+O JAO Editor é uma ferramenta de suporte criada durante o desenvolvimento do [Rushbeat](./rushbeat) para acelerar o desenvolvimento de layouts de tela e arquivos JAO.  
   
 Ele é capaz de fazer algumas coisas:  
   

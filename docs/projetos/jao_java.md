@@ -17,7 +17,7 @@ tags:
 
 ---
   
-`jao-java` é uma implementação da [Especificação Jao](/en/projects/jao_specification) em java. É usado para criar Elementos de UI animados e orientados a eventos usando arquivos `.json`. Seu principal caso de uso foi criar praticamente todos os elementos de interface do usuário no [Rushbeat](rushbeat.md).  
+`jao-java` é uma implementação da [Especificação Jao](/en/projects/jao_specification) em java. É usado para criar Elementos de UI animados e orientados a eventos usando arquivos `.json`. Seu principal caso de uso foi criar praticamente todos os elementos de interface do usuário no [Rushbeat](./rushbeat.md).  
   
 Você pode escrever um arquivo `.json` e adicionar instruções como _"fade in por 3 segundos em 0,5 segundos"_ ou _" deslize da sua posição para x,y ao longo de um intervalo de tempo de 3 segundos"_. Aqui está um exemplo de como uma animação se parece:  
   

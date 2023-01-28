@@ -33,7 +33,8 @@ Outra coisa comum é sincronizar esse vault utilizando uma solução de versiona
 O pessoal do Obsidian vende um serviço chamado _[Obsidian Vault](https://obsidian.md/publish)_ que simplesmente publica o seu vault do obsidian tal qual ele está no editor. A idéia é muito boa, mas é muito caro: $20.00 por mês dá mais de 100 reais por aqui... Hoje em dia eu gasto 50 com o GCP e acho muito.
 
 Eu achei algumas coisas:
-- [Quartz]() - Foi de longe o mais próximo do que eu queria, mas não suporta documentos organizados em hierarquias. Depois da segunda pasta ele já não pega mais nada. Talvez no futuro venha a ser a solução que eu vá adotar.
+
+- [Quartz](https://quartz.jzhao.xyz/) - Foi de longe o mais próximo do que eu queria, mas não suporta documentos organizados em hierarquias. Depois da segunda pasta ele já não pega mais nada. Talvez no futuro venha a ser a solução que eu vá adotar.
 - [Flowershow](https://flowershow.app/) - Foi o segundo mais próximo, também é feito para funcionar com Obsidian. Não funcionou muito bem, mas é promissor.
 - [Jekyll](https://jekyllrb.com/) e [Eleventy](https://www.11ty.dev/) - são geradores de sites estáticos com templates para digital gardens, que adicionam os backlinks e mind maps.
 - [Sphinx](https://www.sphinx-doc.org/en/master/), [Mkdocs](https://www.mkdocs.org/), etc. - geradores de documentação que lêem markdown são bem adequados para a tarefa também. Apesar disso, eles normalmente não têm suporte a backlinks nem mindmaps.
