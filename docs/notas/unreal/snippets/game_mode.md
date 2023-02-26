@@ -1,0 +1,1 @@
+The game mode defines the rules of the game. Also, it defines the HUD class and the default pawn. It holds the game and player state.

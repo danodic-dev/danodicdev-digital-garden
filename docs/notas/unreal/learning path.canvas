@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ab2d35abfdad2ea3","x":-148,"y":63,"width":250,"height":253,"type":"file","file":"notas/unreal/snippets/input.md"},
+		{"id":"6d6155aef989e415","x":-148,"y":-90,"width":250,"height":60,"color":"4","type":"text","text":"input works"},
+		{"id":"04b0d0ec7db7f63f","x":-145,"y":-289,"width":250,"height":50,"type":"text","text":"figure out how..."},
+		{"id":"430e7e351c43ea3b","x":299,"y":-90,"width":250,"height":60,"color":"4","type":"text","text":"movement works"},
+		{"id":"2b18baf8c8406a74","x":-520,"y":63,"width":250,"height":253,"type":"file","file":"notas/unreal/using vscode.md"},
+		{"id":"e1137e2120385f95","x":-520,"y":-90,"width":250,"height":50,"color":"4","type":"text","text":"programming works"},
+		{"id":"e90a0be7ae19391d","x":-520,"y":419,"width":250,"height":60,"type":"text","text":"Review C++ because I am _bad_ at it"},
+		{"id":"1a7aa8ca35954cdc","x":299,"y":63,"width":250,"height":253,"type":"file","file":"notas/unreal/snippets/movement.md"}
+	],
+	"edges":[
+		{"id":"dbbe863f98f8e395","fromNode":"04b0d0ec7db7f63f","fromSide":"bottom","toNode":"e1137e2120385f95","toSide":"top"},
+		{"id":"d0b42f2f96a7417c","fromNode":"04b0d0ec7db7f63f","fromSide":"bottom","toNode":"6d6155aef989e415","toSide":"top"},
+		{"id":"de8e0a2e83eeb8ca","fromNode":"04b0d0ec7db7f63f","fromSide":"bottom","toNode":"430e7e351c43ea3b","toSide":"top"},
+		{"id":"4cd0827440402d44","fromNode":"430e7e351c43ea3b","fromSide":"bottom","toNode":"1a7aa8ca35954cdc","toSide":"top"},
+		{"id":"e9f87946f99c63a2","fromNode":"6d6155aef989e415","fromSide":"bottom","toNode":"ab2d35abfdad2ea3","toSide":"top"},
+		{"id":"9f92327d061b976b","fromNode":"e1137e2120385f95","fromSide":"bottom","toNode":"2b18baf8c8406a74","toSide":"top"},
+		{"id":"28221e4e435f7acd","fromNode":"2b18baf8c8406a74","fromSide":"bottom","toNode":"e90a0be7ae19391d","toSide":"top"}
+	]
+}
