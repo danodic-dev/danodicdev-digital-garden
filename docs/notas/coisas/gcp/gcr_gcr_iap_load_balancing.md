@@ -1,4 +1,11 @@
-#gcp #gcp
+---
+title: GCR + Load Balancer + IAP
+tags:
+  - gcr
+  - gcp
+  - iap
+  - web
+---
 
 Eu precisei configurar um ambiente de teste no trabalho, para o desenvolvimento de um sistema interno. A ideia era de hospedar os sistemas no GCR e utilizar a VPN corporativa para liberar acesso aos usuários internos.
 
